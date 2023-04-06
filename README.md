@@ -10,6 +10,7 @@ A papelaria Mamaco está fazendo uma promoção para queima de estoque, mas pra 
 - Essa tabela deve estar num site da Papelaria Mamaco (pode criar o site conforme seu coração mandar, usando as tags que já aprendemos em HTML) pode ser simples.
 
 No seu site da papelaria Mamaco você deve criar mais uma página com o nome Cadastro, você deve conseguir acessar a página de cadastro atravez da sua home. Essa página deverá conter um formulário com os seguintes campos:
+
 -Nome
 -Data de Nascimento
 -Email
