@@ -1,21 +1,15 @@
-# Papelaria-Mamaco-King
-Trabalho efetuado para o curso da SoulCode HTML e CSS Iniciante
+Papelaria Mamaco King
+Este é um projeto desenvolvido para o curso de HTML e CSS Iniciante da SoulCode. O objetivo do projeto é criar um site para a Papelaria Mamaco com uma tabela de promoção e uma página de cadastro.
 
-A papelaria Mamaco está fazendo uma promoção para queima de estoque, mas pra ficar tudo certinho precisamos de uma tabela pra organizar. Sua tabela deve ter:
+Tabela de promoção
+A tabela de promoção contém cinco colunas com a foto do item, nome do item, quantidade em estoque, preço normal e preço promocional. A primeira linha da tabela está mesclada com o nome da papelaria. A tabela pode ter bordas e deve conter pelo menos cinco itens.
 
-- A primeira linha da tabela deve ter todas as colunas mescladas, com o nome da papelaria;
-- 5 colunas, sendo elas: Foto do Item, Nome do Item, Quantidade em estoque, Preço Normal, Preço promocional;
-- Pelo menos 5 itens (pode inventar);
-- A tabela pode ter bordas;
-- Essa tabela deve estar num site da Papelaria Mamaco (pode criar o site conforme seu coração mandar, usando as tags que já aprendemos em HTML) pode ser simples.
+Página de cadastro
+A página de cadastro é acessível através da página inicial e contém um formulário com os seguintes campos: nome, data de nascimento, e-mail, endereço, estado (seleção), CPF, senha e botão de enviar.
 
-No seu site da papelaria Mamaco você deve criar mais uma página com o nome Cadastro, você deve conseguir acessar a página de cadastro atravez da sua home. Essa página deverá conter um formulário com os seguintes campos:
+Como executar o projeto
+Para executar o projeto, basta abrir o arquivo HTML em qualquer navegador. Não é necessário instalar nenhuma dependência.
 
-- Nome
-- Data de Nascimento
-- Email
-- Endereço
-- Estado (selecione)
-- CPF
-- Senha
-- Botão de enviar
+Tecnologias utilizadas
+HTML
+CSS
